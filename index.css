@@ -1,0 +1,133 @@
+.topnavbar img {
+    width:200px;
+    height:150px;
+    margin-left: 15%;
+    margin-bottom:-4.54%;
+}
+
+.topnavbar p {
+    margin-left:26.5%;
+    margin-top:0.0000005%;
+}
+
+.navigateiconshtml{
+    width:200px;
+    height:150px;
+    margin-left:15.38%;
+    margin: top 4px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navigateicons h3{
+    font-weight: normal;
+}
+.navigateiconscss{
+    width:200px;
+    height:150px;
+    margin-left:18.65%;
+    margin-top: -168px;    
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.navigateiconsjs{
+    width:200px;
+    height:150px;
+    margin-left:21.35%;
+    margin-top: -169px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navigateiconspy{
+    width:200px;
+    height:150px;
+    margin-left:28.25%;
+    margin-top: -169px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.centerpart h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: inherit;
+    margin-top: -100px;
+}
+.centerpart p{
+    font-size:18px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -20px;
+}
+
+.centerpart{
+    margin-left: 15.80%;
+}
+.points{
+    margin-left: 14.80%;
+    font-family:Arial, Helvetica, sans-serif;
+    list-style-type:disc;
+}
+
+.points p{
+    text-indent : 30px;
+}
+
+#des1 h2{
+    margin-left: 15.38%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: inherit;
+}
+
+#des1 ul{
+    margin-left: 15.38%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#des1 li{
+    padding-left: 1em;
+    padding-top: 0.5em;
+}
+
+#des2 h2{
+    margin-left: 15.38%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: inherit;
+}
+#des2 p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: inherit;
+    margin-left: 15.38%;
+}
+
+#table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+    margin-left: 14.5%;
+}
+.heading1,.heading2 {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+.row-table:nth-child(even) {
+            background-color: #dddddd;
+        }
+#browser h2{
+            margin-left: 15.10%;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: inherit;
+}
+#browser p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: inherit;
+    margin-left: 15.38%;
+}
+.browserimage{
+        display: block;
+        margin-left:25%;
+        margin-right: auto;
+        width: 25%;
+    
+}
+.reviewform{
+    margin-left:15.10%;
+}
+.reviewform h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: inherit;
+}
